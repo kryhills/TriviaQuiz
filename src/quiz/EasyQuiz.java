@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class EasyQuiz {
     public static void main(String[] args) {
 
-
         Scanner MainObj = new Scanner(System.in);
         int score = 0;
         

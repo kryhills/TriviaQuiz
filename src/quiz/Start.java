@@ -23,7 +23,7 @@ public class Start {
                 EasyQuiz.main(new String[0]);
                 break;
             case 2:
-                System.out.println("Medium Quiz not implemented yet.");
+                MediumQuiz.main(new String[0]);
                 break;
             case 3:
                 System.out.println("Hard Quiz not implemented yet.");
